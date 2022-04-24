@@ -10,7 +10,7 @@ include_once 'sidebar.php';
             <div class="row mb-2">
               
               <div class="jumbotron bg-success">
-                <h1 class="display-4">Hello foks, My name is M Daffa Ariftama  </h1>
+                <h1 class="display-4">Hello folks, My name is M Daffa Ariftama  </h1>
                 <p class="lead">This is a collection of projects that I developed myself.</p>
                 <hr class="my-4">
                 <p>Let's check on my github account for another projects.</p>
