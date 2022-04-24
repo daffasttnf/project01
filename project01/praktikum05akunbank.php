@@ -42,7 +42,7 @@ include_once 'sidebar.php';
               </div>
               <div class="card-body">
               <?php
-                include_once 'praktikum_pemweb2/praktikum5/buah.php';
+                include_once 'praktikum_pemweb2/praktikum5/Akun_Bank/Table_akun.php';
               ?>
               </div>
                <!-- /.card-body -->

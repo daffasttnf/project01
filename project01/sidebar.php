@@ -55,7 +55,7 @@
                   <li class="nav-item">
                     <a href="praktikum01.php" class="nav-link active">
                       <i class="far fa-circle nav-icon"></i>
-                      <p>Praktikum1</p>
+                      <p>Table Mahasiswa</p>
                     </a>
                   </li>
                 </ul>
@@ -154,15 +154,15 @@
                 </a>
                 <ul class="nav nav-treeview">
                   <li class="nav-item">
-                    <a href="praktikum05buah.php" class="nav-link active">
+                    <a href="praktikum05akunbank.php" class="nav-link active">
                       <i class="far fa-circle nav-icon"></i>
-                      <p>Buah</p>
+                      <p>Akun Bank</p>
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a href="praktikum05perhitungan.php" class="nav-link active">
+                    <a href="praktikum05dispenser.php" class="nav-link active">
                       <i class="far fa-circle nav-icon"></i>
-                      <p>Perhitungan</p>
+                      <p>Dispenser</p>
                     </a>
                   </li>
                 </ul>
